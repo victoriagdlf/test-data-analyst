@@ -9,7 +9,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
 | Hotel                     | http://analytics.deacero.com/Api/GetApi/ApiHotelFull/api_key      |
 
 
-Nota: El api_key válido se proporciona por correo. En caso de esar interesado en aplicar al test puede enviar correo a <yacosta@deacero.com>
+Nota: El api_key válido se proporciona por correo. En caso de estar interesado en aplicar al test puede enviar correo a <yacosta@deacero.com>
 
 El conjunto de datos del archivo Hotel.csv contiene información de reserva para un hotel urbano y un hotel resort, e incluye información como cuándo se realizó la reserva, duración de la estadía, la cantidad de adultos, niños y / o bebés, y la cantidad de espacios de estacionamiento disponibles, entre otras cosas. Toda la información de identificación personal se ha eliminado de los datos. Ambos hoteles están ubicados en Portugal. La columna “is_canceled” (1 es sí, 0 es no) para saber si fue o no cancelada 
 
