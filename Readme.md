@@ -1,4 +1,4 @@
-# Ejercicio práctico para Data Analyst en Deacero.
+# Test para Data Analyst DEACERO
 
 Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo.
 
